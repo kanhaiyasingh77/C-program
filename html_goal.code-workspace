@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../html_goal"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../html-css-practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html_goal"
+	}
+}
